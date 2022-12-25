@@ -10,7 +10,6 @@ const dataBase = {
         {id: 1, name: 'Aziz', message: 'Hello world!-an'},
         {id: 2, name: 'Abzal', message: 'yo'},
         {id: 3, name: 'Shoqan', message: 'eye man'},
-        {id: 4, name: 'Aldik', message: 'na'}
     ]
 }
 
